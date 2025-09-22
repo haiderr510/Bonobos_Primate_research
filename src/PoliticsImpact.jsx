@@ -21,8 +21,8 @@ function PoliticsImpact() {
             </p>
           </div>
           <img
-            src="https://images.unsplash.com/photo-1441974231531-c6227db76b6e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
-            alt="Congo Basin rainforest showing deforestation impact"
+            src="https://images.unsplash.com/photo-1574263867128-a1b5ddb79a71?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+            alt="Deforestation and mining impact in Congo Basin"
             className="section-image"
           />
         </div>
