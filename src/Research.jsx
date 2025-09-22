@@ -30,8 +30,8 @@ function Research() {
             </p>
           </div>
           <img
-            src="https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
-            alt="Bonobo in natural habitat"
+            src="https://images.unsplash.com/photo-1605027990121-3b2c503c71d9?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+            alt="Bonobos exhibiting social behavior and grooming"
             className="section-image"
           />
         </div>
@@ -59,8 +59,8 @@ function Research() {
         <h2>Origin and Country: Democratic Republic of Congo</h2>
         <div className="section-with-image">
           <img
-            src="https://images.unsplash.com/photo-1518709268805-4e9042af2176?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
-            alt="Congo rainforest"
+            src="https://images.unsplash.com/photo-1596430643491-bc85d59c0b9b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+            alt="Congo Basin rainforest - bonobo natural habitat"
             className="section-image"
           />
           <div>
