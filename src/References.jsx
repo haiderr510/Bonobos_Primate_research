@@ -4,34 +4,44 @@ function References() {
   return (
     <div className="custom-container">
       <div className="content-section">
-        <h2>Academic References</h2>
+        <h2>References</h2>
         <p>
-          This research draws upon extensive peer-reviewed literature and field studies conducted by leading
-          primatologists and conservation biologists. The following sources provide the scientific foundation
-          for understanding bonobo behavior, ecology, and conservation needs.
+          This research project on bonobo conservation draws upon peer-reviewed scientific literature,
+          conservation reports, and current data on primate extinction crisis. All sources focus specifically
+          on bonobo conservation needs and threats.
         </p>
       </div>
 
       <div className="content-section">
-        <h3>Primary Research Articles</h3>
+        <h3>Required Assignment References</h3>
         <ol style={{ fontSize: '1.1rem', lineHeight: '1.8' }}>
           <li>
-            Estrada, A., Garber, P. A., Rylands, A. B., Roos, C., Fernandez-Duque, E., Di Fiore, A., ... & Li, B. (2017). Impending extinction crisis of the world's primates: Why primates matter. <em>Science Advances</em>, 3(1), e1600946.
+            <strong>Estrada, A., Garber, P. A., Rylands, A. B., Roos, C., Fernandez-Duque, E., Di Fiore, A., ... & Li, B. (2017).</strong>
+            <em><a href="https://www.science.org/doi/10.1126/sciadv.1600946" target="_blank" rel="noopener noreferrer">Impending extinction crisis of the world's primates: Why primates matter.</a></em>
+            Science Advances, 3(1), e1600946.
           </li>
           <li>
-            Fruth, B., Benishay, J. M., Bila-Isia, I., Coxe, S., Dupain, J., Furuichi, T., ... & Williamson, E. A. (2016). Pan paniscus. <em>The IUCN Red List of Threatened Species</em>, e.T15932A17964305.
+            <strong>Chapman, C. A., & Peres, C. A. (2001).</strong>
+            <em><a href="https://www.nature.com/scitable/knowledge/library/primate-conservation-is-the-cup-half-empty-53872551/" target="_blank" rel="noopener noreferrer">Primate Conservation: Is the Cup Half Empty or Half Full?</a></em>
+            Nature Education Knowledge, 3(10):37.
+          </li>
+        </ol>
+
+        <h3>Bonobo-Specific Research</h3>
+        <ol style={{ fontSize: '1.1rem', lineHeight: '1.8' }}>
+          <li>
+            <strong>Fruth, B., Hickey, J. R., André, C., Furuichi, T., Hart, J., Hart, T., ... & Thompson, J. (2016).</strong>
+            <em>Pan paniscus. The IUCN Red List of Threatened Species</em>, e.T15932A17964305.
           </li>
           <li>
-            Hickey, J. R., Nackoney, J., Nibbelink, N. P., Blake, S., Bonyenge, A., Coxe, S., ... & Williamson, E. A. (2013). Human proximity and habitat fragmentation are key drivers of the rangewide bonobo distribution. <em>Biodiversity and Conservation</em>, 22(12), 2815-2834.
+            <strong>Hickey, J. R., Nackoney, J., Nibbelink, N. P., Blake, S., Bonyenge, A., Coxe, S., ... & Williamson, E. A. (2013).</strong>
+            <em>Human proximity and habitat fragmentation are key drivers of the rangewide bonobo distribution.</em>
+            Biodiversity and Conservation, 22(12), 2815-2834.
           </li>
           <li>
-            Hare, B., Wobber, V., & Wrangham, R. (2012). The self-domestication hypothesis: evolution of bonobo psychology is due to selection against aggression. <em>Animal Behaviour</em>, 83(3), 573-585.
-          </li>
-          <li>
-            Furuichi, T. (2011). Female contributions to the peaceful nature of bonobo society. <em>Evolutionary Anthropology</em>, 20(4), 131-142.
-          </li>
-          <li>
-            Hohmann, G., & Fruth, B. (2003). Culture in bonobos? Between-species and within-species variation in behavior. <em>Current Anthropology</em>, 44(4), 563-571.
+            <strong>Furuichi, T. (2011).</strong>
+            <em>Female contributions to the peaceful nature of bonobo society.</em>
+            Evolutionary Anthropology, 20(4), 131-142.
           </li>
         </ol>
       </div>

@@ -29,16 +29,17 @@ function Home() {
         <div className="content-section">
           <div className="section-with-image">
             <div>
-              <h2>Meet the Bonobos</h2>
+              <h2>Meet the Bonobos: Our Peaceful Cousins</h2>
               <p>
-                Bonobos are among our closest living relatives, sharing 98.7% of our DNA. These peaceful primates
-                live exclusively in the Democratic Republic of Congo and are known for their empathetic, cooperative
-                societies that resolve conflicts through bonding rather than violence.
+                Bonobos (Pan paniscus) are among our closest living relatives, sharing 98.7% of our DNA with humans.
+                These remarkable primates live exclusively in the Democratic Republic of Congo (DRC), south of the Congo River,
+                and are known for their empathetic, cooperative societies that resolve conflicts through bonding rather than violence.
               </p>
               <p>
-                Unlike their chimpanzee cousins, bonobos live in matriarchal societies where females lead and
-                conflicts are rare. Their behavior offers profound insights into human evolution and the
-                potential for peaceful coexistence.
+                I chose to study bonobos because their name relates to someone who overcame a similar struggle as me
+                during a different time in my life when I too had to overcome challenges. Unlike their chimpanzee cousins,
+                bonobos live in matriarchal societies where females lead and conflicts are rare, offering profound insights
+                into human evolution and the potential for peaceful coexistence.
               </p>
               <Link to="/research" className="cta-button" style={{ display: 'inline-block', marginTop: '1rem' }}>
                 Discover More
