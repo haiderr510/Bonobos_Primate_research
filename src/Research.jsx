@@ -9,29 +9,29 @@ function Research() {
           <div>
             <h3>Physical Characteristics</h3>
             <p>
-              Bonobos (Pan paniscus) are one of our closest living relatives, sharing approximately 98.7% of their DNA with humans.
-              Adult bonobos typically weigh between 30-40 kg (66-88 lbs), with females slightly smaller than males. They have
-              longer limbs, smaller heads, and more slender builds compared to chimpanzees. Their black hair often shows a distinctive
-              center part, and they retain pink lips throughout their lives.
+              Bonobos (Pan paniscus) are our closest living relatives and have approximately 98.7% of their DNA in common with humans.
+              Adult bonobos typically weigh 30-40 kg (66-88 lbs), with women being slightly shorter than men. They have
+              longer limbs, narrower heads, and more slender bodies compared to chimpanzees. They have black hair with a distinctive
+              center part, and they retain pink lips for life.
             </p>
 
             <h3>Social Structure & Behavior</h3>
             <p>
-              Bonobos live in female-dominated, fission-fusion societies where groups split and merge throughout the day.
-              Unlike chimpanzees, bonobos resolve conflicts through sexual behavior, grooming, and play rather than aggression.
-              They demonstrate remarkable empathy, cooperation, and altruism—behaviors rarely seen in other primates.
+              Bonobos live in female-dominated, fission-fusion societies where their troops disband and form again within the day.
+              Unlike chimpanzees, though, bonobos resolve disputes with sex, grooming, and play instead of fighting.
+              They have unparalleled empathy, cooperation, and altruism—attributions rarely seen in other primates.
             </p>
 
             <h3>Diet & Habitat Requirements</h3>
             <p>
-              Bonobos are primarily frugivorous, with fruits comprising 60-80% of their diet. They also consume leaves, bark,
-              stems, and occasionally insects. They require dense, primary rainforest with abundant fruit trees, particularly
-              fig species. Their habitat needs include large territories (15-30 km²) with continuous canopy cover.
+              Bonobos are predominantly frugivorous and their diet contains 60-80% fruits. They consume leaves, bark,
+              stems, and the occasional insect too. They require dense primary rainforest with high-density fruit trees, i.e., fig species.
+              Their habitat requirements include large territories (15-30 km²) with unbroken canopy cover.
             </p>
           </div>
           <img
             src="https://images.unsplash.com/photo-1605027990121-3b2c503c71d9?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
-            alt="coming soon"
+            alt="Bonobo in natural habitat"
             className="section-image"
           />
         </div>
@@ -60,66 +60,65 @@ function Research() {
         <div className="section-with-image">
           <img
             src="https://images.unsplash.com/photo-1596430643491-bc85d59c0b9b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
-            alt="coming soon"
+            alt="Congo rainforest"
             className="section-image"
           />
           <div>
             <h3>Geographic Distribution</h3>
             <p>
-              Bonobos are endemic to the Democratic Republic of Congo (DRC), specifically in the rainforests south of the Congo River.
-              They occupy approximately 500,000 km² of the Congo Basin, spanning the provinces of Bandundu, Équateur, Kasaï, and Kinshasa.
-              This geographic isolation by the Congo River (approximately 1.6 million years ago) led to their evolutionary divergence from chimpanzees.
+              Bonobos only occur in the Democratic Republic of Congo (DRC), specifically in the rainforests south of the Congo River.
+              They range over approximately 500,000 km² of the Congo Basin, spanning the provinces of Bandundu, Équateur, Kasaï, and Kinshasa.
+              Their divergent evolution from chimpanzees was caused by the Congo River's geographical isolation (approximately 1.6 million years ago).
             </p>
 
             <h3>Ecosystem & Biodiversity</h3>
             <p>
-              The Congo Basin is the world's second-largest tropical rainforest, covering 3.7 million km². It contains over 10,000 endemic plant species,
-              1,200 bird species, and 450 mammal species. Bonobos serve as keystone species and seed dispersers, maintaining forest regeneration
-              through their frugivorous diet and wide-ranging movements.
+              Congo Basin is the world's second-largest tropical rainforest at 3.7 million km². It contains over 10,000 endemic plant species,
+              1,200 bird species, and 450 mammal species. Bonobos are keystone species and seed dispersers, while their frugivorous diet and
+              far-ranging movements keep the forest renewing.
             </p>
 
             <h3>Country Profile: Democratic Republic of Congo</h3>
             <p>
-              The DRC is Central Africa's largest country (2.3 million km²) with a population of approximately 95 million people.
-              Despite vast natural resources including cobalt, copper, diamonds, and timber, it remains one of the world's poorest nations
-              due to political instability, weak governance, and ongoing conflicts that have persisted since the 1990s.
+              The DRC is the largest country in Central Africa (2.3 million km²) and is inhabited by approximately 95 million individuals.
+              Despite vast natural resources of cobalt, copper, diamonds, and forests, it ranks among the world's poorest countries
+              due to political instability, weak governance, and ongoing conflicts which have persisted since the 1990s.
             </p>
           </div>
         </div>
       </div>
 
       <div className="content-section">
-        <h2>Why I Chose This Research Topic</h2>
+        <h2>Why I Chose This Topic of Study</h2>
 
-        <h3>Academic Interest: Unique Social Behavior</h3>
+        <h3>Academic Interest: Outstanding Social Behavior</h3>
         <p>
-          My fascination with bonobos began during my undergraduate primatology course when I learned about their extraordinary
-          social structure. Unlike chimpanzees, bonobos have evolved a matriarchal society where females lead and conflicts
-          are resolved through sexual behavior rather than aggression. This represents a unique evolutionary pathway that
-          challenges traditional assumptions about primate behavior and human origins.
+          I became interested in bonobos during my undergraduate course on primatology when I learned about their fascinating
+          social structure. Unlike chimpanzees, bonobos have evolved a matriarchal society where the females rule and conflicts
+          are resolved through sexual behavior rather than aggression. This is a fascinating evolutionary process that goes against
+          the traditional theories regarding primate biology and human evolution.
         </p>
 
         <h3>Conservation Urgency</h3>
         <p>
-          What drew me most to this research was the critical intersection of scientific importance and conservation urgency.
-          Bonobos are classified as Endangered on the IUCN Red List, with fewer than 20,000 individuals remaining in increasingly
-          fragmented habitats. This creates a race against time where every research study contributes to understanding necessary
-          for effective conservation strategies.
+          What drew me most to this research was the critical point of scientific importance and necessity for conservation.
+          Bonobos are listed as Endangered on the IUCN Red List, and fewer than 20,000 survive in increasingly
+          fragmented habitats. This creates a race against time where each research study feeds into what is required for successful conservation planning.
         </p>
 
         <h3>Human Evolution Insights</h3>
         <p>
-          Bonobos share 98.7% of their DNA with humans and offer crucial insights into human evolution and social behavior.
-          Their capacity for empathy, cooperation, and peaceful conflict resolution provides a powerful counter-narrative to
-          the "aggressive ape" stereotype often applied to human origins. Understanding bonobo society helps us comprehend
-          the full spectrum of human social potential.
+          Bonobos have 98.7% of their DNA in common with humans and provide vital information about human evolution and human social behavior.
+          Their ability for empathy, cooperation, and non-violent resolution of conflict provides an empowering counter-narrative to
+          the "aggressive ape" myth typically invoked in discussions of human origins. Insights into bonobo society shed light on
+          the entire range of human social possibilities.
         </p>
 
         <h3>Personal Motivation</h3>
         <p>
-          As a researcher, I am driven by the opportunity to contribute to conservation science that could prevent the extinction
-          of one of our closest relatives. The multidisciplinary nature of this research—combining behavioral ecology,
-          conservation biology, and anthropology—aligns with my academic interests and career goals in primatology.
+          As a scientist, my drive is the potential to accelerate conservation science that potentially could prevent the extinction
+          of one of our closest relatives. The multidisciplinary nature of this study that combines behavioral ecology,
+          conservation biology, and anthropology is consistent with my academic career and professional interests in primatology.
         </p>
       </div>
     </div>
