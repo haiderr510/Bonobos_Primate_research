@@ -87,14 +87,16 @@ body {
 }
 
 .cta-button.secondary {
-  background: transparent;
+  background: rgba(255, 255, 255, 0.15);
   border: 2px solid white;
   color: white;
+  backdrop-filter: blur(10px);
 }
 
 .cta-button.secondary:hover {
   background: white;
   color: #2c3e50;
+  border-color: white;
 }
 
 /* Content Sections */
