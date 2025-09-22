@@ -12,7 +12,7 @@ function Navigation() {
   const location = useLocation();
 
   const navStyle = {
-    backgroundColor: 'rgba(52, 58, 64, 0.95)',
+    backgroundColor: 'rgba(45, 134, 89, 0.95)',
     backdropFilter: 'blur(10px)',
     padding: '1rem 2rem',
     position: 'fixed',
@@ -47,13 +47,13 @@ function Navigation() {
   };
 
   const getLinkStyle = (path) => ({
-    color: location.pathname === path ? '#667eea !important' : 'white !important',
+    color: location.pathname === path ? '#f8f9fa !important' : 'white !important',
     textDecoration: 'none',
     padding: '0.5rem 1rem',
     borderRadius: '25px',
     transition: 'all 0.3s ease',
     fontWeight: location.pathname === path ? '600' : '400',
-    backgroundColor: location.pathname === path ? 'rgba(102, 126, 234, 0.1)' : 'transparent',
+    backgroundColor: location.pathname === path ? 'rgba(248, 249, 250, 0.2)' : 'transparent',
     opacity: '1'
   });
 

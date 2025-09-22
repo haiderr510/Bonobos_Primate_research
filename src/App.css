@@ -67,7 +67,7 @@ body {
 }
 
 .cta-button {
-  background: #ff6b6b;
+  background: #2d8659;
   color: white;
   padding: 1rem 2rem;
   border: none;
@@ -84,19 +84,21 @@ body {
   box-shadow: 0 8px 25px rgba(0,0,0,0.3);
   color: white;
   text-decoration: none;
+  background: #245a42;
 }
 
 .cta-button.secondary {
-  background: rgba(255, 255, 255, 0.15);
-  border: 2px solid white;
-  color: white;
-  backdrop-filter: blur(10px);
+  background: #f8f9fa;
+  border: 2px solid #f8f9fa;
+  color: #2d8659;
+  font-weight: 700;
 }
 
 .cta-button.secondary:hover {
   background: white;
-  color: #2c3e50;
+  color: #245a42;
   border-color: white;
+  transform: translateY(-3px);
 }
 
 /* Content Sections */
