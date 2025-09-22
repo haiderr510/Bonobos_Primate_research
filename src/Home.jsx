@@ -7,21 +7,18 @@ function Home() {
       {/* Hero Section */}
       <section className="hero-section">
         <div className="hero-content">
-          <h1>Saving Our Closest Relatives</h1>
-          <h2>Bonobos are on the brink of extinction. Discover why their survival matters for all of us.</h2>
+          <h1>Bonobo Conservation Research</h1>
+          <h2>Primate Research Project - Assignment 1</h2>
           <p style={{ fontSize: '1.2rem', maxWidth: '600px', margin: '0 auto', lineHeight: '1.6' }}>
-            With fewer than 20,000 bonobos remaining in the wild, we are witnessing a conservation crisis that demands
-            immediate action. Join us in understanding and protecting these remarkable primates.
+            Research on bonobos (Pan paniscus) covering conservation needs, political impacts, and statistical analysis
+            as required for the assignment criteria.
           </p>
           <div className="hero-cta">
-            <Link to="/conservation" className="cta-button">
-              Conservation Crisis
-            </Link>
-            <Link to="/politics-impact" className="cta-button secondary">
+            <Link to="/politics-impact" className="cta-button">
               Politics & Cultural Impact
             </Link>
-            <Link to="/research" className="cta-button secondary">
-              Research Data
+            <Link to="/references" className="cta-button secondary">
+              View References
             </Link>
           </div>
         </div>
@@ -95,32 +92,6 @@ function Home() {
           </p>
         </div>
 
-        {/* Research Impact */}
-        <div className="content-section">
-          <div className="section-with-image">
-            <img
-              src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
-              alt="Conservation researcher studying primates in Congo Basin"
-              className="section-image"
-            />
-            <div>
-              <h2>Research That Matters</h2>
-              <p>
-                By studying bonobos, we gain crucial insights into human evolution, social behavior, and
-                conflict resolution. This research is not just academically important—it's essential for
-                developing effective conservation strategies.
-              </p>
-              <p>
-                My work focuses on understanding bonobo behavior and the urgent conservation needs of this
-                critically endangered species. Every study contributes to our knowledge and helps inform
-                protection efforts.
-              </p>
-              <p style={{ fontStyle: 'italic', color: '#666' }}>
-                — Haidar Rajabi, Primatology Researcher
-              </p>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   );
