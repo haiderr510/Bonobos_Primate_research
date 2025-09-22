@@ -31,7 +31,7 @@ function Research() {
           </div>
           <img
             src="https://images.unsplash.com/photo-1605027990121-3b2c503c71d9?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
-            alt="Bonobos exhibiting social behavior and grooming"
+            alt="coming soon"
             className="section-image"
           />
         </div>
@@ -60,7 +60,7 @@ function Research() {
         <div className="section-with-image">
           <img
             src="https://images.unsplash.com/photo-1596430643491-bc85d59c0b9b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
-            alt="Congo Basin rainforest - bonobo natural habitat"
+            alt="coming soon"
             className="section-image"
           />
           <div>
