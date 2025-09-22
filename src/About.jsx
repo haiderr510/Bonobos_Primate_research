@@ -6,21 +6,13 @@ function About() {
       <div className="content-section">
         <h2>About me</h2>
         <p>
-          Hi! I'm Haidar Rajabi, a passionate researcher focused on primate conservation.
-          My connection to bonobos is deeply personal – I chose to study them because their name relates
-          to someone who overcame a similar struggle as me during a different time in my life when I too
-          had to overcome challenges. This personal connection sparked my academic interest in their unique
-          social structures and the critical conservation threats they face.
+          Hi! I'm Haidar Rajabi, an avid researcher interested in the conservation of primates. My passion for bonobos is close to heart – I researched them because their name reminds me of the individual who struggled through a challenge that I too had to struggle through during a different time in my life when I also had to struggle through the difficult periods. This close-to-heart passion conceived my academic interest in their unusual social organizations as well as in the grave conservation issues that face them.
         </p>
         <p>
-          Through this research project, I aim to raise awareness about the conservation crisis
-          facing bonobos and contribute to the global effort to protect these remarkable primates.
-          Just as bonobos demonstrate resilience and peaceful conflict resolution in their societies,
-          I believe that understanding and protecting our closest relatives in the animal kingdom
-          is crucial for maintaining biodiversity and learning valuable lessons about overcoming challenges.
+          Through this research project, I aim to create more awareness of the conservation crisis facing bonobos and be part of humanity's attempt to preserve these wonderful primates. As bonobos demonstrate resilience and conflict resolution in peace among communities, I believe learning about and protecting our closest relatives in the primate kingdom is vital to maintaining biodiversity and learning useful lessons on how to transcend adversity.
         </p>
         <p>
-          Feel free to reach out if you'd like to discuss primate conservation or collaborate on research projects!
+          Feel free to contact me if you're interested in primate conservation or collaborating on research projects!
         </p>
       </div>
     </div>
