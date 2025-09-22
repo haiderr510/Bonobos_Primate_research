@@ -19,8 +19,8 @@ function Conservation() {
             </p>
           </div>
           <img
-            src="https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
-            alt="Deforestation in Congo"
+            src="https://images.unsplash.com/photo-1441974231531-c6227db76b6e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+            alt="Congo Basin rainforest facing deforestation threats"
             className="section-image"
           />
         </div>
@@ -57,8 +57,8 @@ function Conservation() {
         <h2>Conservation Efforts and Hope</h2>
         <div className="section-with-image">
           <img
-            src="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
-            alt="Conservation team in field"
+            src="https://images.unsplash.com/photo-1606981831113-b6dc03a88b43?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+            alt="Wildlife conservation team working in African rainforest"
             className="section-image"
           />
           <div>
@@ -152,8 +152,8 @@ function Conservation() {
             </p>
           </div>
           <img
-            src="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
-            alt="Conservation research team"
+            src="https://images.unsplash.com/photo-1589841962879-26b8eb760d8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+            alt="Primatologist conducting field research in Congo Basin"
             className="section-image"
           />
         </div>

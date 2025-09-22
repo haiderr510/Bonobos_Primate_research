@@ -21,8 +21,8 @@ function PoliticsImpact() {
             </p>
           </div>
           <img
-            src="https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
-            alt="Deforestation and logging"
+            src="https://images.unsplash.com/photo-1441974231531-c6227db76b6e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+            alt="Congo Basin rainforest showing deforestation impact"
             className="section-image"
           />
         </div>
@@ -72,8 +72,8 @@ function PoliticsImpact() {
         <h3>Bushmeat Hunting and Cultural Practices</h3>
         <div className="section-with-image">
           <img
-            src="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
-            alt="Local community in Congo forest"
+            src="https://images.unsplash.com/photo-1547036967-23d11aacaee0?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+            alt="Congo Basin forest community and traditional practices"
             className="section-image"
           />
           <div>

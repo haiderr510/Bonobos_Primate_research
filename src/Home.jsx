@@ -46,8 +46,8 @@ function Home() {
               </Link>
             </div>
             <img
-              src="https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
-              alt="Bonobo family"
+              src="https://images.unsplash.com/photo-1540573133985-87b6da6d54a9?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+              alt="Bonobo in natural habitat in Congo rainforest"
               className="section-image"
             />
           </div>
@@ -80,8 +80,8 @@ function Home() {
         <div className="content-section">
           <div className="section-with-image">
             <img
-              src="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
-              alt="Researcher with bonobos"
+              src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+              alt="Conservation researcher studying primates in Congo Basin"
               className="section-image"
             />
             <div>
