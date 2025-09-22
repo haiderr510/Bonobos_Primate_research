@@ -1,11 +1,10 @@
 import React from 'react';
-import Container from 'react-bootstrap/Container';
 
 function About() {
   return (
-    <Container className="mt-4">
-      <div className="p-4 bg-light rounded">
-        <h2>About Me</h2>
+    <div className="custom-container">
+      <div className="content-section">
+        <h2>About me</h2>
         <p>
           Hi! I'm Haidar Rajabi, a passionate researcher focused on primate conservation.
           My interest in bonobos began during my undergraduate studies in primatology,
@@ -21,7 +20,7 @@ function About() {
           Feel free to reach out if you'd like to discuss primate conservation or collaborate on research projects!
         </p>
       </div>
-    </Container>
+    </div>
   );
 }
 

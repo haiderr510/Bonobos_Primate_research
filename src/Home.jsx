@@ -1,45 +1,108 @@
 import React from 'react';
-import Container from 'react-bootstrap/Container';
+import { Link } from 'react-router-dom';
 
 function Home() {
   return (
-    <Container className="mt-4">
-      <header id="home">
-        <h1>Bonobo Conservation Crisis: Monkeys on the brink</h1>
-        <h2>by Haidar Rajabi</h2>
-        <h3>Last updated 9/20/2025</h3>
-      </header>
+    <div>
+      {/* Hero Section */}
+      <section className="hero-section">
+        <div className="hero-content">
+          <h1>Saving Our Closest Relatives</h1>
+          <h2>Bonobos are on the brink of extinction. Discover why their survival matters for all of us.</h2>
+          <p style={{ fontSize: '1.2rem', maxWidth: '600px', margin: '0 auto', lineHeight: '1.6' }}>
+            With fewer than 20,000 bonobos remaining in the wild, we are witnessing a conservation crisis that demands
+            immediate action. Join us in understanding and protecting these remarkable primates.
+          </p>
+          <div className="hero-cta">
+            <Link to="/conservation" className="cta-button">
+              Learn About Conservation
+            </Link>
+            <Link to="/research" className="cta-button secondary">
+              Explore Research
+            </Link>
+          </div>
+        </div>
+      </section>
 
-      <div id="primate" className="mt-4">
-        <h2>The Primate I will study</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
-      </div>
+      <div className="custom-container">
+        {/* Introduction Section */}
+        <div className="content-section">
+          <div className="section-with-image">
+            <div>
+              <h2>Meet the Bonobos</h2>
+              <p>
+                Bonobos are among our closest living relatives, sharing 98.7% of our DNA. These peaceful primates
+                live exclusively in the Democratic Republic of Congo and are known for their empathetic, cooperative
+                societies that resolve conflicts through bonding rather than violence.
+              </p>
+              <p>
+                Unlike their chimpanzee cousins, bonobos live in matriarchal societies where females lead and
+                conflicts are rare. Their behavior offers profound insights into human evolution and the
+                potential for peaceful coexistence.
+              </p>
+              <Link to="/research" className="cta-button" style={{ display: 'inline-block', marginTop: '1rem' }}>
+                Discover More
+              </Link>
+            </div>
+            <img
+              src="https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+              alt="Bonobo family"
+              className="section-image"
+            />
+          </div>
+        </div>
 
-      <div id="origin" className="mt-4">
-        <h2>Origin and country</h2>
-        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident. Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus.</p>
-      </div>
+        {/* Crisis Overview */}
+        <div className="content-section">
+          <h2>A Species in Crisis</h2>
+          <div className="stats-grid">
+            <div className="stat-card">
+              <span className="stat-number">&lt;20K</span>
+              <div className="stat-label">Bonobos Left</div>
+            </div>
+            <div className="stat-card">
+              <span className="stat-number">75%</span>
+              <div className="stat-label">Habitat Lost</div>
+            </div>
+            <div className="stat-card">
+              <span className="stat-number">50%</span>
+              <div className="stat-label">Population Decline</div>
+            </div>
+          </div>
+          <p>
+            The numbers tell a stark story. Bonobos face unprecedented threats from deforestation, hunting, and
+            habitat destruction. Without immediate action, we may lose these remarkable creatures forever.
+          </p>
+        </div>
 
-      <div id="research" className="mt-4">
-        <h2>Why i chose this research topic</h2>
-        <p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.</p>
+        {/* Research Impact */}
+        <div className="content-section">
+          <div className="section-with-image">
+            <img
+              src="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+              alt="Researcher with bonobos"
+              className="section-image"
+            />
+            <div>
+              <h2>Research That Matters</h2>
+              <p>
+                By studying bonobos, we gain crucial insights into human evolution, social behavior, and
+                conflict resolution. This research is not just academically important—it's essential for
+                developing effective conservation strategies.
+              </p>
+              <p>
+                My work focuses on understanding bonobo behavior and the urgent conservation needs of this
+                critically endangered species. Every study contributes to our knowledge and helps inform
+                protection efforts.
+              </p>
+              <p style={{ fontStyle: 'italic', color: '#666' }}>
+                — Haidar Rajabi, Primatology Researcher
+              </p>
+            </div>
+          </div>
+        </div>
       </div>
-
-      <div id="evidence" className="mt-4">
-        <h2>Statistical Evidence for Conservation need</h2>
-        <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur.</p>
-      </div>
-
-      <div id="references" className="mt-4">
-        <h2>References</h2>
-        <ol>
-          <li>Lorem, I., Ipsum, D., Dolor, S., et al. (2017). Lorem ipsum dolor sit amet consectetur adipiscing elit. Lorem Ipsum Journal, 3(1), e1600946.</li>
-          <li>Consectetur, A., Adipiscing, E., Sed, D., et al. (2016). Dolor sit amet. The Lorem Ipsum List of Placeholder Text 2016.</li>
-          <li>Tempor Incididunt Foundation. (2023). Ut Labore Partnership: Lorem Ipsum Status Report.</li>
-          <li>Magna Aliqua Database. (2024). Ut enim Species Profile. Minim Veniam Union for Lorem Ipsum Specialist Group.</li>
-        </ol>
-      </div>
-    </Container>
+    </div>
   );
 }
 
